@@ -1,0 +1,4 @@
+.angular/
+.svelte-kit/
+dist/
+node_modules/
